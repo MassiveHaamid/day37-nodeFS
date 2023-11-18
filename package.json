@@ -1,0 +1,20 @@
+{
+  "name": "day37",
+  "version": "1.0.0",
+  "description": "NodeJS File System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MassiveHaamid/day37-nodeFS.git"
+  },
+  "author": "MassiveHaamid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MassiveHaamid/day37-nodeFS/issues"
+  },
+  "homepage": "https://github.com/MassiveHaamid/day37-nodeFS#readme"
+}
